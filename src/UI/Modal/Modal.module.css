@@ -1,0 +1,38 @@
+/* .Modal {
+  position: fixed;
+  z-index: 500;
+  background-color: white;
+  width: 50%;
+  border: solid thick aqua;
+  box-shadow: 1px 1px 1px black;
+  padding: 16px;
+  left: 25%;
+  top: 25%;
+  box-sizing: border-box;
+} */
+
+.Modal {
+  position: fixed;
+  /* z-index: 500; */
+  background-color: white;
+  width: 50%;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px black;
+  padding: 16px;
+  left: 25%;
+  top: 30%;
+  box-sizing: border-box;
+  transition: all 0.3s ease-out;
+}
+
+.Modal label{
+  margin-left: 20px;
+}
+
+.Modal select {
+  margin-left: 5px;
+}
+
+.Modal button {
+  margin-left: 35px;
+}

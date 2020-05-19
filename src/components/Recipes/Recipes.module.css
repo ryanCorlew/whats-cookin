@@ -1,0 +1,11 @@
+.Recipes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  height: 80%;
+  box-shadow: 5px 5px 5px black;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  margin: 10px auto;
+}

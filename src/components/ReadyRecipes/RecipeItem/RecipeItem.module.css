@@ -1,0 +1,7 @@
+.RecipeItem {
+  display: flex;
+}
+
+.RecipeItem button {
+  margin: auto 10px;
+}
